@@ -9,15 +9,15 @@
 <h2>👨‍💻 Mes connaissance:</h2>
 
 - <b>Python</b>
-  - [Programme](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Programme](https://github.com/edwin-Atride/Python/tree/main)
   
 - <b>Java</b>
-  - [Information](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Information](https://github.com/edwin-Atride/Java/tree/main)
   
 - <b>HTML/CSS</b>
-  - [Page realiser](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Page realiser](https://github.com/edwin-Atride/HTML-CSS/tree/main)
 - <b>PHP/SQL</b>
-  - [Information](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Information](https://github.com/edwin-Atride/PHP/SQL/tree/main)
 
 
 <h2> Me contacter:</h2>

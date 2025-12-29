@@ -17,7 +17,7 @@
 - <b>HTML/CSS</b>
   - [Page realiser](https://github.com/edwin-Atride/HTML-CSS/tree/main)
 - <b>PHP/SQL</b>
-  - [Information](https://github.com/edwin-Atride/PHP/SQL/tree/main)
+  - [Information](https://github.com/edwin-Atride/PHP-SQL/tree/main)
 
 
 <h2> Me contacter:</h2>

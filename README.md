@@ -11,7 +11,7 @@
 - <b>Python</b>
   - [Programme](https://github.com/edwin-Atride/Python/tree/main)
   
-- <b>Java</b>
+- <b>Kotline</b>
   - [Information](https://github.com/edwin-Atride/Java/tree/main)
   
 - <b>HTML/CSS</b>
